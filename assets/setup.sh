@@ -42,5 +42,4 @@ chmod +x /usr/sbin/startup.sh &&
 # Remove installation files
 rm -r /assets/
 
-
 exit $?
